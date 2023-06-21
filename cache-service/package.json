@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "make-fetch-happen": "^9.0.2",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.17",
     "typescript": "^4.3.2"
   },
   "scripts": {
