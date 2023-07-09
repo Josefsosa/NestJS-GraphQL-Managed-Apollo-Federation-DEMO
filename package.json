@@ -32,7 +32,7 @@
         "express": "^4.17.1",
         "graphql": "^15.5.1",
         "json-server": "^0.16.3",
-        "nodemon": "^2.0.12"
+        "nodemon": "^3.0.0"
     },
     "devDependencies": {
         "@apollo/rover": "^0.1.8",
